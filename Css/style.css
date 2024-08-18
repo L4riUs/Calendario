@@ -1,6 +1,11 @@
 html{
     background-color: rgb(238, 238, 238);
 }
+.badge{
+    position: relative;
+    top: -9px;
+    left: 10px;
+}
 
 /*
 for css vars only.
